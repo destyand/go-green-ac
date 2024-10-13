@@ -484,3 +484,7 @@
 .footer .copyright a:hover {
     color: #FFFFFF;
 }
+
+.navbar-toggler {
+	display: none;
+}
